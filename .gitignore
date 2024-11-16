@@ -5,4 +5,3 @@ __pycache__/
 *.pyc.*
 !HW08_utils.py
 data/image/0801-500
-!data/image/0801-500/00.raw
